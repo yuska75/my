@@ -1,0 +1,2 @@
+Font family: Gilroy (regular, medium)
+Font family: Noto Serif (bold,)
