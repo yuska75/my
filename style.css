@@ -57,3 +57,26 @@ h1 h2 h3 h4 h5 h6{font-size: inherit; font-weight: 400;}
 	font-style: normal;
 }
 /* Подключенные шрифты */
+.full_screen {
+  max-width: 100%;
+  min-height: 100vh;
+  background-image: url(/images/img/bgc.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contanier {
+}
+.header {
+}
+.list {
+}
+.h1 {
+}
+.button {
+}
+.full__screen__bottom {
+}
+.full__screen__row {
+}
+.full__screen__img {
+}
