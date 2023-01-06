@@ -1,2 +1,3 @@
-Font family: 'Conv_gilroy-regular' (regular, medium) 400 500
-Font family: Noto Serif (bold,) 700
+Font family: 'Conv_gilroy-regular' 500
+Font family: 'Conv_gilroy-regular' 400 
+Font family: Noto Serif (bold,) 700 

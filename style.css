@@ -63,12 +63,58 @@ h1 h2 h3 h4 h5 h6{font-size: inherit; font-weight: 400;}
   background-image: url(/images/img/bgc.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+	text-align: center;
 }
 .contanier {
+	max-width: 1130px;
+	padding: 0px 15px;
+	overflow: hidden;
+	margin: 0 auto;
 }
 .header {
+	text-align: center;
+	position: relative;
 }
 .list {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+.list li{
+	font-size: 0.875rem;
+	padding: 40px 20px 20px 20px;
+}
+.list li a{
+	color: #fff;
+}
+.list li a img{
+	padding: 0px 16px 0px 0px;
+}
+.profil {
+	padding: 40px 0px 0px 0px;
+}
+.profil img {
+	padding: 0px 15px 0px 0px;
+}
+.list li:nth-child(3){
+	padding: 40px 222px 40px 20px;
+}
+.list li:nth-child(4){
+	padding: 40px 40px 40px 222px;
+}
+.logo {
+	display: inline-block;
+	position: absolute;
+	top: 20px;
+	left:  center;
+	margin: 0px 0px 0px -108px;
+}
+.h1__row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-end;
+	align-self: flex-end;
 }
 .h1 {
 }
@@ -77,6 +123,7 @@ h1 h2 h3 h4 h5 h6{font-size: inherit; font-weight: 400;}
 .full__screen__bottom {
 }
 .full__screen__row {
+	display: flex;
 }
 .full__screen__img {
 }
